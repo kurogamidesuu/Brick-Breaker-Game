@@ -46,17 +46,7 @@ This is a simple Brick Breaker game built using Python and Pygame. The player co
 ![Gameplay Screenshot](screenshots/Screenshot%20(2).png)
 ![Gameplay Screenshot](screenshots/Screenshot%20(3).png)
 
-
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request with any improvements or new features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - **kurogamidesuu**
 - GitHub: [kurogamidesuu](https://github.com/kurogamidesuu)
-
