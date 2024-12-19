@@ -42,8 +42,10 @@ This is a simple Brick Breaker game built using Python and Pygame. The player co
 
 ## Screenshots
 
-\
-*(Replace this with an actual screenshot of your game in action)*
+![Gameplay Screenshot](screenshots/Screenshot%20(1).png)
+![Gameplay Screenshot](screenshots/Screenshot%20(2).png)
+![Gameplay Screenshot](screenshots/Screenshot%20(3).png)
+
 
 ## Contributing
 
